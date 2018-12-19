@@ -16,10 +16,6 @@ To implement data replication in a cluster using raft distributed consensus algo
 5. Use Pyhton file "ClientTest.py" to perform operation as a client
 6. You can run the "index.htm" to get the live status of the nodes
 
-
-# Demo
-[Watch Demo Here](https://www.youtube.com/watch?v=VgWI_JIyu80)
-
 # Requirements
 1. [Java](http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html)
 2. [Redis](https://redis.io/)
